@@ -24,7 +24,7 @@ It is capable of the following: <br>
 	-Wind speed <br>
 -Present co-ordinates by latitude and longitude by voice command <br>
 -Wikipedia search by voice command for different personalities and objects <br>
--Create a NASA link to checkoput the photo of the day by voice command <br>
+-Create a NASA link to checkout the photo of the day by voice command <br>
 -Monitoring internet speed, browsing speed, download speed <br>
 -Covid status for India, China and U.S using Johns Hopkins University data api <br>
 -Tells Inspiring quotes, intelligent jokes and top 10 news heads from BBC evryday. <br>
