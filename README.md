@@ -1,24 +1,24 @@
 # Smart_intuitive_virtual_assistant
-Alex_the_Smart intutive_virtual_assistant
-Introduction: 
+Alex_the_Smart intutive_virtual_assistant <br>
+Introduction: <br>
 
-AIVA or Alex the intuitive virtual-Assistant was a weekend project for me to learn 
-how the present day virtual voice assistant function and i used various sources to 
-lear more about how different Api's and libraries work together in a simple iPython 
-notebook.  
+AIVA or Alex the intuitive virtual-Assistant was a weekend project for me to learn <br> 
+how the present day virtual voice assistant function and i used various sources to <br>
+lear more about how different Api's and libraries work together in a simple iPython <br>
+notebook.  <br>
 
-It is capable of the following:
--Voice interaction
--Music playback in YouTube by voice command
--Date & time by voice command
--help operate the browser by voice command:
-	-Facebook
-	-WhatsApp
-	-Netflix
-	-Gmail
-	-Google search engine
--Weather updates for your city by voice command:
- 	-Temperature
+It is capable of the following: <br>
+-Voice interaction <br>
+-Music playback in YouTube by voice command <br>
+-Date & time by voice command <br>
+-help operate the browser by voice command:<br>
+	-Facebook <br>
+	-WhatsApp <br>
+	-Netflix <br>
+	-Gmail <br>
+	-Google search engine <br>
+-Weather updates for your city by voice command: <br>
+ 	-Temperature <br>
 	-Humidity
 	-Rain
 	-Wind speed
