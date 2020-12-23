@@ -37,7 +37,7 @@ Goto Anaconda prompt and type: <br>
 conda install name <br>
 or <br>
 Goto Command PROMPT and type: <br>
-pip inatall name <br>
+pip install name <br>
 
 Replace the 'name' with: <br>
           -pyttsx3 <br>
@@ -59,6 +59,11 @@ Replace the 'name' with: <br>
   
 Note: I personally dont hold any of the copyrights for the codes, I used different open souce resources 
 for the following and this is strictly for educational purpose only. <br>
+
+Contact information:
+Facebook: https://www.facebook.com/rik.ganguly.581 <br>
+gmail: rikmicrobio@gmail.com <br>
+ResearchGate: https://www.researchgate.net/profile/Rik_Ganguly <br>
 
 References: <br>
 https://pypi.org/project/pyjokes/ <br>
