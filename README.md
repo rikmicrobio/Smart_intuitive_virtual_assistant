@@ -67,3 +67,5 @@ https://api.nasa.gov/ <br>
 https://www.youtube.com/watch?v=AWvsXxDtEkU <br>
 https://github.com/CSSEGISandData/COVID-19 <br>
 http://api.forismatic.com//api//1.0//?method=getQuote&format=json&lang=en <br>
+
+link to this tutorial:https://rikmicrobio.github.io/Smart_intuitive_virtual_assistant/.
